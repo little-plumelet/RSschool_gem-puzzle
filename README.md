@@ -2,7 +2,7 @@
 This is task from RSschool (https://rs.school/js/)
 
 ## RSS Игра в пятнашки
-#### my realisation ()
+#### my realisation (https://serene-keller-72e529.netlify.app/)
 <img src="./assets/image.jpg" width=100% height=40%>
 #### Задание:
 Вам нужно реализовать классическую игру пятнашки
